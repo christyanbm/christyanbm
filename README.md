@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-<img align="right" width="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="220" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ✔ Estudiante de **Ing. en Sistemas Computacionales** en el TecNM 🎓\
 ✔ Certificado como **Analista de Ciberseguridad Nivel I** 🛡️\
